@@ -16,3 +16,8 @@ SMSCL舵机SDK，支持STM32F103芯片，修正RegWritePosEx函数同时输出�
 SMServoCL_keil_f103_200521.7z  
 SCSCL舵机SDK，支持STM32F103芯片，修正WritePWM函数使用普通写指令代替同步写指令  
 
+SCServo_Linux_200617.7z  
+修正部分系统编译出错问题  
+
+SCServo_Arduino_200617.7z  
+修正WriteSpe/WritePWM函数使用普通写指令代替同步写指令  
