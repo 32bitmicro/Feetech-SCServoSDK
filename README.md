@@ -24,3 +24,6 @@ SCServo_Arduino_200617.7z
 
 SMServoCL_keil_f405_hal_200709.7z  
 SMSCL舵机hal库SDK，支持STM32F405芯片，由于文件大小限制不支持DSP数学库，需要DSP数学库添加.lib文件至工程中即可  
+
+SCServoDemo_vs_2008_200724.7z  
+vs2008(VC++)舵机SDK
