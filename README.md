@@ -28,5 +28,5 @@ SMSCL舵机hal库SDK，支持STM32F405芯片，由于文件大小限制不支持
 SCServoDemo_vs_2008_200724.7z  
 vs2008(VC++)舵机SDK  
 
-SCServo_Python_200826.7z  
+SCServo_Python_200831.7z  
 Python舵机SDK
