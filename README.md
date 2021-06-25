@@ -1,5 +1,3 @@
-# 飞特总线舵机SDK_FEETECH BUS Servo SDK
-
 | 库/SDK                             | 解释/Explanation                                             | FEETECH Serail servo | 环境/Surroundings                        |
 | ---------------------------------- | ------------------------------------------------------------ | -------------------- | ---------------------------------------- |
 | SCServoCL_keil_f103_200521.7z      | SCSCL舵机SDK/SCSCL servo SDK                                 | SCS                  | 支持STM32F103芯片/support STM32F103 Chip |
