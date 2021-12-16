@@ -5,7 +5,7 @@
 | SMServoBCL_keil_f103_210804.7z     | SMS/STS系列舵机SDK/SMS/STS serial servo SDK                  | SMSBL/SMSCL/STS      | 支持STM32F103芯片/support STM32F103 chip |
 | SMServoBCL_keil_f405_201108.7z     | SMS/STS系列舵机SDK/SMS/STS serial servo SDK                  | SMSBL/SMSCL/STS      | 支持STM32F405芯片/support STM32F405 chip |
 | SMServoBCL_keil_f405_hal_201108.7z | SMS/STS系列舵机hal库SDK/SMS/STS serial servo hal library SDK | SMSBL/SMSCL/STS      | 支持STM32F405芯片/support STM32F405 chip |
-| SCServo_Linux_200617.7z            | Linux舵机SDK/Linux servoSDK                                  | SMSBL/SMSCL/STS      | Linux                                    |
+| SCServo_Linux_211209.7z            | Linux舵机SDK/Linux servoSDK                                  | SMSBL/SMSCL/STS      | Linux                                    |
 | SCServoDemo_vs_2008_200724.7z      | vs2008(VC++)舵机SDK/vs2008(VC++) servo SDK                   | SMSBL/SMSCL/STS      | VC++                                     |
 | SCServo_Python_200831.7z           | Python舵机SDK/Python servo SDK                               | SMSBL/SMSCL/STS      | Python                                   |
 | SCServo_Arduino_210311.7z          | Arduino舵机SDK/Arduino servo SDK                             | SMSBL/SMSCL/STS      | Arduino                                  |
