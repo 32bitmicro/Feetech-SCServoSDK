@@ -2,7 +2,7 @@
 | ---------------------------------- | ------------------------------------------------------------ | -------------------- | ---------------------------------------- |
 | SCServoCL_keil_f103_200521.7z      | SCSCL舵机SDK/SCSCL servo SDK                                 | SCS                  | 支持STM32F103芯片/support STM32F103 Chip |
 | SCServoCL_keil_f405_200521.7z      | SCSCL舵机SDK/SCSCL servo SDK                                 | SCS                  | 支持STM32F405芯片/support STM32F405 chip |
-| SMServoBCL_keil_f103_210804.7z     | SMS/STS系列舵机SDK/SMS/STS serial servo SDK                  | SMSBL/SMSCL/STS      | 支持STM32F103芯片/support STM32F103 chip |
+| SMServoBCL_keil_f103_220106.7z     | SMS/STS系列舵机SDK/SMS/STS serial servo SDK                  | SMSBL/SMSCL/STS      | 支持STM32F103芯片/support STM32F103 chip |
 | SMServoBCL_keil_f405_201108.7z     | SMS/STS系列舵机SDK/SMS/STS serial servo SDK                  | SMSBL/SMSCL/STS      | 支持STM32F405芯片/support STM32F405 chip |
 | SMServoBCL_keil_f405_hal_201108.7z | SMS/STS系列舵机hal库SDK/SMS/STS serial servo hal library SDK | SMSBL/SMSCL/STS      | 支持STM32F405芯片/support STM32F405 chip |
 | SCServo_Linux_211209.7z            | Linux舵机SDK/Linux servoSDK                                  | SMSBL/SMSCL/STS      | Linux                                    |
@@ -18,5 +18,6 @@
 |                SMCL:SM60CL/SM85CL/SM100/SM150                |
 |  SMBL:SM29BL/SM30BL/SM40BL/SM45BL/SM8512BL/SM8524BL/SM120BL  |
 
-
-
+SMServoBCL_keil_f103_220106.7z
+1、stm32f103 keil sdk增加同步读功能
+2、stm32f103 keil sdk增加总线切换延时
