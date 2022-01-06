@@ -1,6 +1,6 @@
 | 库/SDK                             | 解释/Explanation                                             | FEETECH Serail servo | 环境/Surroundings                        |
 | ---------------------------------- | ------------------------------------------------------------ | -------------------- | ---------------------------------------- |
-| SCServoCL_keil_f103_200521.7z      | SCSCL舵机SDK/SCSCL servo SDK                                 | SCS                  | 支持STM32F103芯片/support STM32F103 Chip |
+| SCServoCL_keil_f103_220106.7z      | SCSCL舵机SDK/SCSCL servo SDK                                 | SCS                  | 支持STM32F103芯片/support STM32F103 Chip |
 | SCServoCL_keil_f405_200521.7z      | SCSCL舵机SDK/SCSCL servo SDK                                 | SCS                  | 支持STM32F405芯片/support STM32F405 chip |
 | SMServoBCL_keil_f103_220106.7z     | SMS/STS系列舵机SDK/SMS/STS serial servo SDK                  | SMSBL/SMSCL/STS      | 支持STM32F103芯片/support STM32F103 chip |
 | SMServoBCL_keil_f405_201108.7z     | SMS/STS系列舵机SDK/SMS/STS serial servo SDK                  | SMSBL/SMSCL/STS      | 支持STM32F405芯片/support STM32F405 chip |
