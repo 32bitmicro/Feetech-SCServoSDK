@@ -19,5 +19,7 @@
 |  SMBL:SM29BL/SM30BL/SM40BL/SM45BL/SM8512BL/SM8524BL/SM120BL  |
 
 SMServoBCL_keil_f103_220106.7z
+
 1、stm32f103 keil sdk增加同步读功能
+
 2、stm32f103 keil sdk增加总线切换延时
