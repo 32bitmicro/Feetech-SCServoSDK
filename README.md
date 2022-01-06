@@ -21,3 +21,7 @@
 SMServoBCL_keil_f103_220106.7z  
 1、stm32f103 keil sdk增加同步读功能  
 2、stm32f103 keil sdk增加总线切换延时  
+
+SCServoCL_keil_f103_220106.7z  
+1、stm32f103 keil sdk增加总线切换延时  
+2、SDK读超时使用指令计数方法替换系统定时器(不占用系统定时器)    
