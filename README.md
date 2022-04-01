@@ -8,7 +8,7 @@
 | SCServo_Linux_220329.7z            | Linux舵机SDK/Linux servoSDK                                  | SMSBL/SMSCL/STS      | Linux                                    |
 | SCServoDemo_vs_2008_200724.7z      | vs2008(VC++)舵机SDK/vs2008(VC++) servo SDK                   | SMSBL/SMSCL/STS      | VC++                                     |
 | SCServo_Python_200831.7z           | Python舵机SDK/Python servo SDK                               | SMSBL/SMSCL/STS      | Python                                   |
-| SCServo_Arduino_220329.7z          | Arduino舵机SDK/Arduino servo SDK                             | SMSBL/SMSCL/STS      | Arduino                                  |
+| SCServo_Arduino_220401.7z          | Arduino舵机SDK/Arduino servo SDK                             | SMSBL/SMSCL/STS      | Arduino                                  |
 | ModbusRtu_Arduino_211016.7z        | Modbus rtu舵机SDK/Modbus rtu servo SDK                       | SMSBLMD/SMSCLMD      | Arduino                                  |
 
 |   FEETECH 串行系列舵机：SCS系列/STS系列/SMCL系列/SMBL系列    |
