@@ -7,7 +7,7 @@
 | SMServoBCL_keil_f405_hal_220330.7z | SMS/STS系列舵机hal库SDK/SMS/STS serial servo hal library SDK | SMSBL/SMSCL/STS      | 支持STM32F405芯片/support STM32F405 chip |
 | SCServo_Linux_220329.7z            | Linux舵机SDK/Linux servoSDK                | SMSBL/SMSCL/STS      | Linux                                |
 | SCServoDemo_vs_2008_200724.7z      | vs2008(VC++)舵机SDK/vs2008(VC++) servo SDK | SMSBL/SMSCL/STS      | VC++                                 |
-| SCServo_Python_200831.7z           | Python舵机SDK/Python servo SDK             | SMSBL/SMSCL/STS      | Python                               |
+| SCServo_Python_220415.7z           | Python舵机SDK/Python servo SDK             | SMSBL/SMSCL/STS      | Python                               |
 | SCServo_Arduino_220402.7z          | Arduino舵机SDK/Arduino servo SDK           | SMSBL/SMSCL/STS      | Arduino                              |
 | ModbusRtu_Arduino_211016.7z        | Modbus rtu舵机SDK/Modbus rtu servo SDK     | SMSBLMD/SMSCLMD      | Arduino                              |
 
@@ -49,3 +49,7 @@ SCServo_Linux_220329.7z
 SCServo_Arduino_220402.7z  
 1、Arduino sdk增加同步读功能  
 2、增加恢复舵机默认参数功能  
+
+SCServo_Python_220415.7z  
+1、增加sms_sts类(SMS/STS舵机)与scscl类(SCS舵机)  
+2、优化同步读稳定性  
