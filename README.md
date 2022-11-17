@@ -14,10 +14,6 @@
 | FEETECH 串行系列舵机：SCS系列/STS系列/SMCL系列/SMBL系列 |
 | :--------------------------------------: |
 | Feed serial port servo is divided into SCS series / STS series / smcl series / SMBL series |
-| SCS:SCS009/SCS2332/SCS45/SCS15/SCS125/SCS115/SCS215/SCS25/SCS40/SCS40-DS/SCS46/SCS6560 |
-|  STS:STS3032/STS3215/STS3046/SCS20-360T  |
-|      SMCL:SM60CL/SM85CL/SM100/SM150      |
-| SMBL:SM29BL/SM30BL/SM40BL/SM45BL/SM8512BL/SM8524BL/SM120BL |
 
 SCServoCL_keil_f103_220106.7z  
 1、stm32f103 keil sdk增加总线切换延时  
