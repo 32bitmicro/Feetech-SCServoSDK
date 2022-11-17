@@ -11,10 +11,6 @@
 | SCServo_Arduino_220524.7z          | Arduino舵机SDK/Arduino servo SDK           | SCSCL/SMSBL/SMSCL/STS      | Arduino                              |
 | ModbusRtu_Arduino_211016.7z        | Modbus rtu舵机SDK/Modbus rtu servo SDK     | SMSBLMD/SMSCLMD      | Arduino                              |
 
-| FEETECH 串行系列舵机：SCS系列/STS系列/SMCL系列/SMBL系列 |
-| :--------------------------------------: |
-| Feed serial port servo is divided into SCS series / STS series / smcl series / SMBL series |
-
 SCServoCL_keil_f103_220106.7z  
 1、stm32f103 keil sdk增加总线切换延时  
 2、SDK读超时使用指令计数方法替换系统定时器(不占用系统定时器)   
